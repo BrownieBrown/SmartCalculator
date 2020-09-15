@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7969
+status: Failed
+feedback:
+  message: "Failed test #2 of 4. Runtime error\n\nError:\nException in thread \"main\"\
+    \ java.lang.NumberFormatException: For input string: \"1238373938759165\"\n\t\
+    at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)\n\
+    \tat java.base/java.lang.Integer.parseInt(Integer.java:652)\n\tat java.base/java.lang.Integer.parseInt(Integer.java:770)\n\
+    \tat MainKt.main(main.kt:2)\n\tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:61)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:109)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:119)\n"
+  time: Mon, 14 Sep 2020 13:02:58 UTC
+record: -1

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Case insensitive" />
+            <option value="$PROJECT_DIR$/Problems/Create a euphonious word" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Problems/Generating passwords" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Problems/LCM" />
+            <option value="$PROJECT_DIR$/Problems/Matching" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Palindrome" />
+            <option value="$PROJECT_DIR$/Problems/Percentage" />
+            <option value="$PROJECT_DIR$/Problems/Reversing a number" />
+            <option value="$PROJECT_DIR$/Problems/Simple expression" />
+            <option value="$PROJECT_DIR$/Problems/The longest word" />
+            <option value="$PROJECT_DIR$/Problems/User Information" />
+            <option value="$PROJECT_DIR$/Smart Calculator/task" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
